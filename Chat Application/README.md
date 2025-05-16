@@ -1,14 +1,14 @@
-# EChat
+# Simple java Chat Application 
 Chat App using Java Socket Programming
 
 # Technologies
 
 Mave
 
-Client Server Architecture
+Client-Server Architecture
 
 # language
 Java 11
 
 
-multiple clients can join and chat in runtime..
+Multiple clients can join and chat in real-time.
